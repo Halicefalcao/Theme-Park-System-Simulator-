@@ -66,7 +66,7 @@ Project Classes:
 7. RandomGenerator
    A utility for random ride selection.
 
-License
+License:
 This project does not currently have a license.
 By default, all rights are reserved, and no permission is granted to use, modify, or distribute this code without explicit authorization from the repository owner.
 
